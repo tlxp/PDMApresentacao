@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDMApresetacao</string>
+    <string name="texto_exemplo">Este é um texto de exemplo. Usa os botões para mudar a aparência da app.</string>
+    <string name="btn_tema">Modo claro/escuro</string>
+    <string name="btn_texto">Tamanho do texto</string>
+    <string name="btn_layout">Layout vertical/horizontal</string>
+    <string name="btn_grandes">Botões maiores</string>
+</resources>

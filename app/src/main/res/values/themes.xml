@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style
+        name="Base.Theme.PDMApresetacao"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style
+        name="Theme.PDMApresetacao"
+        parent="Base.Theme.PDMApresetacao" />
+
+</resources>
